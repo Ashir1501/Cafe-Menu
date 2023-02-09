@@ -16,7 +16,7 @@ h1, h2, p{
 .item p{
     display: inline-block;
 }
-.flavor{
+.flavor, .dessert{
     width: 75%;
     text-align: left;
 }
